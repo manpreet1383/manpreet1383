@@ -45,13 +45,6 @@
 
 ---
 
-## 📫 How to Reach Me:
-- 📧 Email: [msingh839@myseneca.ca](mailto:msingh839@myseneca.ca)
-- 💼 LinkedIn: [linkedin.com/in/manpreetsingh1383](https://www.linkedin.com/in/manpreetsingh1383)
-- 🛠️ GitHub: [github.com/manpreet1383](https://github.com/manpreet1383)
-
----
-
 <p align="center">
 🚀 "Always learning. Always building. Always growing."
 </p>
